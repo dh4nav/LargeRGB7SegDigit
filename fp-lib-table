@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name WS2812B)(type KiCad)(uri "$(KIPRJMOD)/WS2812B.pretty")(options "")(descr ""))
+  (lib (name Sockets_WAGO233)(type KiCad)(uri "$(KIPRJMOD)/Libraries/Sockets_WAGO233.pretty")(options "")(descr ""))
+)
